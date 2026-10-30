@@ -1,0 +1,23 @@
+{
+    "name": "QCat.FastNoiseLite.Samples.PlayModeTests",
+    "rootNamespace": "",
+    "references": [
+        "QCat.FastNoiseLite",
+        "QCat.FastNoiseLite.Samples",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

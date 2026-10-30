@@ -1,0 +1,32 @@
+{
+  "name": "com.qcat.fastnoise-lite",
+  "version": "1.1.1",
+  "displayName": "FastNoiseLite",
+  "description": "FastNoiseLite 1.1.1 procedural noise generation for Unity. A single-file, dependency-free C# port of Auburn's FastNoiseLite (https://github.com/Auburn/FastNoiseLite) covering OpenSimplex2, OpenSimplex2S, Cellular, Perlin, Value and Value Cubic noise, fractal layering and domain warping. Ships with an optional \"Noise Examples\" sample containing 12 interactive scenes.",
+  "unity": "6000.4",
+  "unityRelease": "8f1",
+  "documentationUrl": "https://github.com/cholushkin/FastNoiseLiteUnityPackage#readme",
+  "changelogUrl": "https://github.com/cholushkin/FastNoiseLiteUnityPackage/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/cholushkin/FastNoiseLiteUnityPackage/blob/main/LICENSE.md",
+  "keywords": [
+    "noise",
+    "procedural",
+    "fastnoiselite",
+    "perlin",
+    "simplex",
+    "cellular",
+    "terrain",
+    "worldgen"
+  ],
+  "author": {
+    "name": "Jordan Peck (upstream FastNoiseLite author) / Max Cholushkin (Unity package & samples)",
+    "url": "https://github.com/cholushkin/FastNoiseLiteUnityPackage"
+  },
+  "samples": [
+    {
+      "displayName": "Noise Examples",
+      "description": "12 interactive examples covering noise generation, fractals, domain warping, terrain, islands, resources, and benchmarking.",
+      "path": "Samples~/Noise Examples"
+    }
+  ]
+}

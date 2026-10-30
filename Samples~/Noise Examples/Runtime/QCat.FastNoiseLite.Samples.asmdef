@@ -1,0 +1,16 @@
+{
+    "name": "QCat.FastNoiseLite.Samples",
+    "rootNamespace": "",
+    "references": [
+        "QCat.FastNoiseLite"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
